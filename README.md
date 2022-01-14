@@ -1,0 +1,1 @@
+# odabir_kombinacije_solarnih_ploca
