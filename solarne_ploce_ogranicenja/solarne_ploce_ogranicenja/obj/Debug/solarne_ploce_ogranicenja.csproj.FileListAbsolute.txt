@@ -1,0 +1,10 @@
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\bin\Debug\solarne_ploce_ogranicenja.exe.config
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\bin\Debug\solarne_ploce_ogranicenja.exe
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\bin\Debug\solarne_ploce_ogranicenja.pdb
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.csproj.AssemblyReference.cache
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.Pocetna.resources
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.Properties.Resources.resources
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.csproj.GenerateResource.cache
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.csproj.CoreCompileInputs.cache
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.exe
+C:\Users\fajer\Downloads\dp_projekt\solarne_ploce_ogranicenja\solarne_ploce_ogranicenja\obj\Debug\solarne_ploce_ogranicenja.pdb
